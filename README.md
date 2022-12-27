@@ -1,8 +1,8 @@
 # CPU_Shceduling_Simiulator
 
-##Team Contributers:
-|1.Ahmed Nashaat Mohamed |
-|                        |
+|Team Contributers:      |
+|----------------------- |
+|1.Ahmed Nashaat Mohame  |
 |2.Mohamed Sherif        |
 |3.Mohamed Abdellatif    |
 |4.Menna Mohamed         |
