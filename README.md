@@ -10,7 +10,8 @@
 
 
 ## Scheduling Algorithms:
-1.FIFO
-2.SJF
-3.Priority
-4.Round Robin
+
+#### 1.FIFO
+#### 2.SJF
+#### 3.Priority
+#### 4.Round Robin
